@@ -1,10 +1,8 @@
 <h1 align="center">iloveterminal</h1>
 
 <p align="center">
-  <img src="iloveterminal.svg" width="120" alt="iloveterminal logo">
+  <img src="iloveterminal.svg" width="200" alt="iloveterminal logo">
 </p>
-
----
 
 > 💻 **A cult-classic terminal experience — building the future of dev tools, one command at a time.**
 
