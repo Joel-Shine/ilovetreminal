@@ -17,6 +17,7 @@ Just pure, focused power.
 
 ---
 
+
 ## 🚀 Our Tools (So Far)
 
 - 📁 `termfm` — Terminal File Manager with mouse support
@@ -24,6 +25,7 @@ Just pure, focused power.
 - 📝 `termwrite` — Minimal text editor in the terminal
 - 🎥 `termview` — YouTube viewer in CLI
 - 🎮 `battleship-ai` — Classic Battleship game with smart AI difficulty
+
 
 ---
 
